@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: My Notes on MKDocs
+site_url: https://bbmorten.github.io/mkdocs/
+nav:
+- Home: index.md
+- Installation: installation.md
+theme:
+  name: material
+

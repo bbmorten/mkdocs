@@ -1,6 +1,3 @@
-# mkdocs
-MKDocs Notes, A Sample Site
-
 ## Installation
 
 ### Step 1 - Create a repository on GitHUB <https://github.com/username/mkdocs>
@@ -28,6 +25,6 @@ mkdocs gh-deploy
 
 Choose gh-pages as your new branch 
 
-![Alt text](README.png)
+![Settings-->Pages](assets/images/README.png)
 
-Your site is live at https://bbmorten.github.io/mkdocs/
+Your site is live at (https://bbmorten.github.io/mkdocs/)
