@@ -12,6 +12,8 @@ Create a virtual environment first. Shift+Command+P --> Python : Create Environm
 ```shell
 pip install mkdocs-material
 pip install mkdocs-mermaid2-plugin
+pip install mkdocs-macros-plugin
+
 
 # Then change directory to an upper folder.
 cd ..
